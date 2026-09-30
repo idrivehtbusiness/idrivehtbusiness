@@ -121,6 +121,7 @@ Some of my current engineering work is private by design, particularly systems t
 
 I am increasing my work in public repositories through focused contributions, issue-driven fixes, tests, documentation, and maintainable changes.
 
+- **[OWASP CVE Lite CLI](https://github.com/OWASP/cve-lite-cli/pull/1257)** — behavior-neutral cleanup of OA008 range handling · PR #1257 · CI, CodeQL and self-scan passing
 - **[Crosshare](https://github.com/crosshare-org/crosshare/pull/595)** — publish warning for isolated crossword cells · PR #595 under review
 - **[OpenSchoolHT](https://github.com/idrivehtbusiness/OpenSchoolHT)** — maintainer · open-source school management platform
 

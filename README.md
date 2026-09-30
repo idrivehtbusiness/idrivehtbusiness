@@ -8,7 +8,6 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=idrivehtbusiness&label=Profile+views&color=0e75b6&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/idrivehtbusiness?style=flat-square&label=Followers)
 ![Open source](https://img.shields.io/badge/Open%20Source-Contributor-181717?style=flat-square&logo=github)
 

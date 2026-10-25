@@ -1,212 +1,75 @@
-# Hey, I'm Jules Charly
+<p align="center">
+  <a href="https://orbitwake.com" title="See what I'm building">
+    <img src="./assets/terminal-header.svg" alt="Jules Charly — developer, systems and network engineer, product builder" width="100%" />
+  </a>
+</p>
 
-Developer, systems & network engineer, and product builder.
+<p align="center">
+  <a href="https://orbitwake.com">Current build</a> &nbsp;·&nbsp;
+  <a href="https://developers.orbitwake.com">Developer docs</a> &nbsp;·&nbsp;
+  <a href="https://github.com/idrivehtbusiness?tab=repositories">Repositories</a>
+</p>
 
-I build software, cloud infrastructure, AI systems, automation, data platforms, geospatial tools, and the occasional project that somehow becomes much bigger than originally planned.
+## Hey, I'm Jules.
 
-A lot of my work lives somewhere between software engineering, infrastructure, data, security, and solving problems that should probably not require five different systems.
+Developer, systems and network engineer, and product builder.
 
-## What I build
+I turn complicated problems into software people can actually use. Sometimes that means a good interface. Sometimes it means a network that stays online. Sometimes it means explaining why the DNS change needs another five minutes.
 
-I work on systems for businesses, organizations, institutions, and operational teams.
+> If someone says “it should be a quick fix,” I quietly open the architecture diagram.
 
-That includes:
+### What keeps me busy
 
-- Full-stack web platforms
-- Enterprise software
-- AI-powered applications
-- Machine learning workflows
-- Cloud infrastructure
-- Data engineering
-- Big data systems
-- Business automation
-- Internal tools
-- APIs and system integrations
-- Infrastructure monitoring
-- Secure operational platforms
-- Geospatial and satellite-based systems
-- Mapping and location intelligence
-- Public safety software
-- Administrative and institutional platforms
+| Software & data | Cloud & networks | Automation & operations |
+| :--- | :--- | :--- |
+| Full-stack products, APIs, AI integrations, data platforms, mapping tools | AWS, Linux, networking, Cloudflare, deployment, reliability, security | GitHub Actions, CI/CD, Salesforce, Zoho, internal workflows, business integrations |
 
-Some systems are public.
+**Tools I reach for:** `TypeScript` `JavaScript` `Python` `React` `Next.js` `Node.js` `SQL` `PostgreSQL` `AWS` `Linux` `GitHub Actions`
 
-Some are private.
+### Things I'm building
 
-Some are better left without a repository name on the internet.
+- **[OrbitWake](https://orbitwake.com)** — an AI-native workspace for code, cloud and developer workflows.
+- **[La Grâce Solutions](https://lagracesolutions.com)** — a customer-facing retail platform and digital shopping experience.
+- **Behind the scenes** — education platforms, operational systems, geospatial tools, data pipelines and automation. Not everything useful lives in a public repository.
 
-## Public Safety & Institutional Systems
+### Notes from the terminal
 
-I also work on software designed for public institutions and security-related operations.
+```text
+$ git status
+On branch one-more-feature
+Your branch is ahead of 'origin/realistic-schedule' by 37 ideas.
 
-This includes systems that can help with:
+$ systemctl status curiosity
+active (running)
 
-- Operational coordination
-- Information management
-- Secure internal workflows
-- Geographic awareness
-- Incident and activity tracking
-- Data analysis
-- Decision-support tools
-- Public safety operations
+$ dig +short patience.example
+;; still propagating
+```
 
-The goal is simple: use technology to make important systems more organized, reliable, and useful for the people operating them.
+I like clean architecture, useful automation, tested backups, and interfaces that don't make people read a manual.
 
-Good software cannot fix everything.
+I also enjoy fishing. It's one of the few times when “nothing is happening” is actually good news.
 
-But bad software can definitely make everything worse.
+<details>
+<summary><b>Open the extremely confidential incident report</b></summary>
 
-## Geospatial & Satellite Systems
+<br />
 
-I build tools that use location data, mapping, and satellite imagery for organizations and businesses.
+```text
+INCIDENT #0001
+Severity:    Dramatic
+Root cause:  "Just one more feature."
+Mitigation:  Coffee, tests, rollback plan.
+Status:      Lessons learned. Probably.
+```
 
-Depending on the use case, that can include:
+The [official incident soundtrack](https://www.youtube.com/watch?v=dQw4w9WgXcQ) is available for research purposes.
 
-- Satellite imagery visualization
-- Geographic information systems
-- Custom interactive maps
-- Asset and location monitoring
-- Infrastructure visualization
-- Territory analysis
-- Location-based analytics
-- Operational dashboards
-- Geographic data processing
-
-Basically, sometimes a normal dashboard is not enough.
-
-Sometimes you need the planet.
-
-## AI & Machine Learning
-
-I work with:
-
-`Artificial Intelligence` · `Machine Learning` · `LLMs`
-
-`AI Agents` · `RAG` · `Prompt Engineering`
-
-`Model Integration` · `AI Automation`
-
-`Data Processing` · `Analytics`
-
-I am particularly interested in AI that becomes part of a real system instead of being added just so someone can put "AI-powered" on the homepage.
-
-## Data & Big Data
-
-`Python` · `SQL` · `PostgreSQL`
-
-`Data Engineering` · `Big Data`
-
-`ETL` · `Data Processing`
-
-`Analytics` · `APIs`
-
-I like turning messy data into something people can actually use.
-
-Sometimes the hardest part of data engineering is discovering that three systems all spell the same customer's name differently.
-
-## Development
-
-`TypeScript` · `JavaScript` · `Python`
-
-`Next.js` · `React` · `Node.js`
-
-`REST APIs` · `Backend Systems`
-
-`System Architecture` · `Integrations`
-
-I build both the things users see and the things users should never have to think about.
-
-## Cloud, Systems & Networking
-
-`AWS` · `Linux` · `Docker`
-
-`GitHub Actions` · `CI/CD`
-
-`Cloudflare` · `DNS`
-
-`Networking` · `Ubiquiti`
-
-`Servers` · `Security`
-
-I spend enough time with servers to know that "it was working yesterday" is not a debugging strategy.
-
-## Automation & Business Systems
-
-I build software that connects operations, data, APIs, infrastructure, accounting systems, CRM platforms, and internal workflows.
-
-Tools and platforms I work with include:
-
-`Salesforce` · `Zoho`
-
-`Workflow Automation` · `API Integrations`
-
-`CRM` · `Business Systems`
-
-If someone copies the same information from one system to another every morning, I immediately start thinking about how to make them stop doing that.
-
-## Products & Platforms
-
-I build different kinds of software, including:
-
-- Developer platforms
-- Cloud tools
-- School management systems
-- Administrative systems
-- Business applications
-- Internal enterprise tools
-- AI-enabled products
-- Public safety systems
-- Infrastructure platforms
-- Data and analytics systems
-- Geospatial applications
-
-Not every project needs to be public to be interesting.
-
-And not every good project needs a landing page.
-
-## Things I care about
-
-- Good architecture
-- Reliable infrastructure
-- Security
-- Useful AI
-- Clean interfaces
-- Automation
-- Data quality
-- Performance
-- Scalability
-- Systems that people can actually understand
-- Technology that solves real operational problems
-
-And backups.
-
-Always backups.
-
-Preferably tested backups.
-
-## Current status
-
-Usually somewhere between:
-
-- building something
-- designing something
-- training something
-- deploying something
-- fixing something I deployed
-- reading logs
-- debugging an API
-- checking a server
-- staring at a map
-- waiting for DNS propagation
-- promising myself not to start another project
-
-The last item remains experimental.
-
-## Outside the terminal
-
-Fishing, technology, learning new things, and occasionally remembering that the laptop can actually be closed.
-
+</details>
 
 ---
 
-Build useful things. Keep learning. Ship carefully.
+<p align="center">
+  Build useful things. Keep learning. Ship carefully.<br />
+  <sub>The banner is clickable. The rollback plan is not optional.</sub>
+</p>

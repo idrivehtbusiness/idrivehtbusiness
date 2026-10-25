@@ -1,75 +1,64 @@
+# Hey, I'm Jules.
+
+I build software, work on networks, design things, and occasionally convince servers to cooperate.
+
+I'm a developer and systems engineer from Haiti. Most of my projects start with a pretty simple question: **can we make this less complicated for the people using it?**
+
+Sometimes the answer is a website. Sometimes it's an entire platform. Sometimes it's turning something off and back on again, but let's keep that between us.
+
+## What I'm up to
+
+- **[OrbitWake](https://orbitwake.com)** — building an AI-native workspace for developers and teams.
+- **[La Grâce Solutions](https://lagracesolutions.com)** — building a better online shopping experience.
+- **Other things** — school platforms, business software, automation, mapping tools, infrastructure, and the occasional idea that was supposed to take one weekend.
+
+I like working across the whole thing: the interface, the API, the database, the deployment, and the part where we find out why an email ended up in spam.
+
+## The toolbox
+
+`TypeScript` · `JavaScript` · `Python` · `React` · `Next.js` · `Node.js`  
+`AWS` · `Linux` · `PostgreSQL` · `Cloudflare` · `GitHub Actions`  
+`Networking` · `Security` · `Salesforce` · `Zoho`
+
+These aren't personality traits. They're just tools I use.
+
+## A few important things about me
+
+- I take clean interfaces seriously.
+- I like boring, reliable infrastructure. Exciting infrastructure is usually a bad sign.
+- I believe in backups, testing, and having a way back before deploying.
+- I love fishing. The fish don't care about my GitHub contributions, which is refreshing.
+
 <p align="center">
-  <a href="https://orbitwake.com" title="See what I'm building">
-    <img src="./assets/terminal-header.svg" alt="Jules Charly — developer, systems and network engineer, product builder" width="100%" />
+  <a href="https://giphy.com/gifs/waiting-fishing-ice-x8DdineBQAvFGD8AYt/" title="Gone fishing">
+    <img src="https://media.giphy.com/media/x8DdineBQAvFGD8AYt/giphy.gif" alt="Two people patiently waiting while fishing" width="360" />
   </a>
+  <br />
+  <sub>Me waiting for a fish to bite. Also me waiting for DNS to propagate.</sub>
 </p>
 
-<p align="center">
-  <a href="https://orbitwake.com">Current build</a> &nbsp;·&nbsp;
-  <a href="https://developers.orbitwake.com">Developer docs</a> &nbsp;·&nbsp;
-  <a href="https://github.com/idrivehtbusiness?tab=repositories">Repositories</a>
-</p>
+## Frequently asked questions (by me, to me)
 
-## Hey, I'm Jules.
+**Do I need another side project?**  
+No.
 
-Developer, systems and network engineer, and product builder.
+**Am I going to start one anyway?**  
+That's a different question.
 
-I turn complicated problems into software people can actually use. Sometimes that means a good interface. Sometimes it means a network that stays online. Sometimes it means explaining why the DNS change needs another five minutes.
-
-> If someone says “it should be a quick fix,” I quietly open the architecture diagram.
-
-### What keeps me busy
-
-| Software & data | Cloud & networks | Automation & operations |
-| :--- | :--- | :--- |
-| Full-stack products, APIs, AI integrations, data platforms, mapping tools | AWS, Linux, networking, Cloudflare, deployment, reliability, security | GitHub Actions, CI/CD, Salesforce, Zoho, internal workflows, business integrations |
-
-**Tools I reach for:** `TypeScript` `JavaScript` `Python` `React` `Next.js` `Node.js` `SQL` `PostgreSQL` `AWS` `Linux` `GitHub Actions`
-
-### Things I'm building
-
-- **[OrbitWake](https://orbitwake.com)** — an AI-native workspace for code, cloud and developer workflows.
-- **[La Grâce Solutions](https://lagracesolutions.com)** — a customer-facing retail platform and digital shopping experience.
-- **Behind the scenes** — education platforms, operational systems, geospatial tools, data pipelines and automation. Not everything useful lives in a public repository.
-
-### Notes from the terminal
-
-```text
-$ git status
-On branch one-more-feature
-Your branch is ahead of 'origin/realistic-schedule' by 37 ideas.
-
-$ systemctl status curiosity
-active (running)
-
-$ dig +short patience.example
-;; still propagating
-```
-
-I like clean architecture, useful automation, tested backups, and interfaces that don't make people read a manual.
-
-I also enjoy fishing. It's one of the few times when “nothing is happening” is actually good news.
+**What's my favorite deployment?**  
+The one I don't have to roll back.
 
 <details>
-<summary><b>Open the extremely confidential incident report</b></summary>
-
+<summary><b>One last thing</b></summary>
 <br />
 
-```text
-INCIDENT #0001
-Severity:    Dramatic
-Root cause:  "Just one more feature."
-Mitigation:  Coffee, tests, rollback plan.
-Status:      Lessons learned. Probably.
-```
-
-The [official incident soundtrack](https://www.youtube.com/watch?v=dQw4w9WgXcQ) is available for research purposes.
+If someone tells you a project is "basically finished," ask if they've tested the password reset email.
 
 </details>
 
 ---
 
 <p align="center">
-  Build useful things. Keep learning. Ship carefully.<br />
-  <sub>The banner is clickable. The rollback plan is not optional.</sub>
+  <a href="https://orbitwake.com">What I'm building</a> ·
+  <a href="https://github.com/idrivehtbusiness?tab=repositories">What I've shipped publicly</a>
 </p>

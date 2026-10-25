@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Jules Charly — engineer, builder, product maker</title>
+  <desc id="desc">A dark editorial terminal header with subtle gridlines, electric blue orbital paths and a blinking cursor.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111822"/>
+      <stop offset=".56" stop-color="#0a1019"/>
+      <stop offset="1" stop-color="#080d16"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#226aff" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#226aff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1c5ef0"/>
+      <stop offset="1" stop-color="#79b7ff"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#8da0b8" stroke-opacity=".075" stroke-width="1"/>
+    </pattern>
+    <clipPath id="panel"><rect width="1200" height="380" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#panel)">
+    <rect width="1200" height="380" fill="url(#bg)"/>
+    <rect width="1200" height="380" fill="url(#grid)"/>
+    <circle cx="985" cy="194" r="300" fill="url(#glow)"/>
+    <path d="M0 48H1200" stroke="#9aacc5" stroke-opacity=".13"/>
+    <circle cx="32" cy="24" r="5" fill="#e27979"/>
+    <circle cx="52" cy="24" r="5" fill="#d9ac5c"/>
+    <circle cx="72" cy="24" r="5" fill="#6fae98"/>
+    <text x="105" y="29" fill="#8290a5" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.4">jules@workstation  /  profile</text>
+    <text x="1112" y="29" fill="#8290a5" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">01 : LIVE</text>
+
+    <g fill="none" stroke="url(#line)" stroke-width="1.3" opacity=".52">
+      <ellipse cx="1027" cy="203" rx="181" ry="107" transform="rotate(-34 1027 203)"/>
+      <ellipse cx="1027" cy="203" rx="122" ry="176" transform="rotate(19 1027 203)"/>
+      <circle cx="1027" cy="203" r="80" stroke-opacity=".55"/>
+    </g>
+    <circle cx="1027" cy="203" r="6" fill="#78b7ff"/>
+    <circle cx="1091" cy="137" r="5" fill="#79b7ff"/>
+    <circle cx="894" cy="264" r="4" fill="#3f89ff"/>
+    <path d="M850 330H1172M1027 64V342" stroke="#abc3eb" stroke-opacity=".08"/>
+    <text x="964" y="359" fill="#6c7e99" font-size="10" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="2">BUILD  /  DEBUG  /  REPEAT</text>
+
+    <rect x="64" y="92" width="8" height="8" fill="#428dff"/>
+    <text x="89" y="101" fill="#82b4ff" font-size="14" letter-spacing="3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">WHOAMI</text>
+    <text x="62" y="168" fill="#f2f5fa" font-size="59" font-weight="700" letter-spacing="-2" font-family="Arial, Helvetica, sans-serif">Jules Charly</text>
+    <text x="65" y="206" fill="#a6b4ca" font-size="20" font-family="Arial, Helvetica, sans-serif">Software. Infrastructure. Networks. Products.</text>
+    <path d="M65 233H590" stroke="#8ba5cb" stroke-opacity=".26"/>
+    <text x="65" y="271" fill="#dce7f7" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">~ $ turning complex problems into useful systems</text>
+    <rect x="626" y="255" width="9" height="18" fill="#77b4ff">
+      <animate attributeName="opacity" values="1;1;0;0;1" dur="1.25s" repeatCount="indefinite"/>
+    </rect>
+    <text x="65" y="332" fill="#7589a5" font-size="12" letter-spacing="1.1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">STATUS: BUILDING   /   LOCATION: HAITI   /   DEFAULT MODE: CURIOUS</text>
+  </g>
+</svg>

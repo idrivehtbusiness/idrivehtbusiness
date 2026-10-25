@@ -1,212 +1,64 @@
-# Hey, I'm Jules Charly
+# Hey, I'm Jules.
 
-Developer, systems & network engineer, and product builder.
+I build software, work on networks, design things, and occasionally convince servers to cooperate.
 
-I build software, cloud infrastructure, AI systems, automation, data platforms, geospatial tools, and the occasional project that somehow becomes much bigger than originally planned.
+I'm a developer and systems engineer from Haiti. Most of my projects start with a pretty simple question: **can we make this less complicated for the people using it?**
 
-A lot of my work lives somewhere between software engineering, infrastructure, data, security, and solving problems that should probably not require five different systems.
+Sometimes the answer is a website. Sometimes it's an entire platform. Sometimes it's turning something off and back on again, but let's keep that between us.
 
-## What I build
+## What I'm up to
 
-I work on systems for businesses, organizations, institutions, and operational teams.
+- **[OrbitWake](https://orbitwake.com)** — building an AI-native workspace for developers and teams.
+- **[La Grâce Solutions](https://lagracesolutions.com)** — building a better online shopping experience.
+- **Other things** — school platforms, business software, automation, mapping tools, infrastructure, and the occasional idea that was supposed to take one weekend.
 
-That includes:
+I like working across the whole thing: the interface, the API, the database, the deployment, and the part where we find out why an email ended up in spam.
 
-- Full-stack web platforms
-- Enterprise software
-- AI-powered applications
-- Machine learning workflows
-- Cloud infrastructure
-- Data engineering
-- Big data systems
-- Business automation
-- Internal tools
-- APIs and system integrations
-- Infrastructure monitoring
-- Secure operational platforms
-- Geospatial and satellite-based systems
-- Mapping and location intelligence
-- Public safety software
-- Administrative and institutional platforms
+## The toolbox
 
-Some systems are public.
+`TypeScript` · `JavaScript` · `Python` · `React` · `Next.js` · `Node.js`  
+`AWS` · `Linux` · `PostgreSQL` · `Cloudflare` · `GitHub Actions`  
+`Networking` · `Security` · `Salesforce` · `Zoho`
 
-Some are private.
+These aren't personality traits. They're just tools I use.
 
-Some are better left without a repository name on the internet.
+## A few important things about me
 
-## Public Safety & Institutional Systems
+- I take clean interfaces seriously.
+- I like boring, reliable infrastructure. Exciting infrastructure is usually a bad sign.
+- I believe in backups, testing, and having a way back before deploying.
+- I love fishing. The fish don't care about my GitHub contributions, which is refreshing.
 
-I also work on software designed for public institutions and security-related operations.
+<p align="center">
+  <a href="https://giphy.com/gifs/waiting-fishing-ice-x8DdineBQAvFGD8AYt/" title="Gone fishing">
+    <img src="https://media.giphy.com/media/x8DdineBQAvFGD8AYt/giphy.gif" alt="Two people patiently waiting while fishing" width="360" />
+  </a>
+  <br />
+  <sub>Me waiting for a fish to bite. Also me waiting for DNS to propagate.</sub>
+</p>
 
-This includes systems that can help with:
+## Frequently asked questions (by me, to me)
 
-- Operational coordination
-- Information management
-- Secure internal workflows
-- Geographic awareness
-- Incident and activity tracking
-- Data analysis
-- Decision-support tools
-- Public safety operations
+**Do I need another side project?**  
+No.
 
-The goal is simple: use technology to make important systems more organized, reliable, and useful for the people operating them.
+**Am I going to start one anyway?**  
+That's a different question.
 
-Good software cannot fix everything.
+**What's my favorite deployment?**  
+The one I don't have to roll back.
 
-But bad software can definitely make everything worse.
+<details>
+<summary><b>One last thing</b></summary>
+<br />
 
-## Geospatial & Satellite Systems
+If someone tells you a project is "basically finished," ask if they've tested the password reset email.
 
-I build tools that use location data, mapping, and satellite imagery for organizations and businesses.
-
-Depending on the use case, that can include:
-
-- Satellite imagery visualization
-- Geographic information systems
-- Custom interactive maps
-- Asset and location monitoring
-- Infrastructure visualization
-- Territory analysis
-- Location-based analytics
-- Operational dashboards
-- Geographic data processing
-
-Basically, sometimes a normal dashboard is not enough.
-
-Sometimes you need the planet.
-
-## AI & Machine Learning
-
-I work with:
-
-`Artificial Intelligence` · `Machine Learning` · `LLMs`
-
-`AI Agents` · `RAG` · `Prompt Engineering`
-
-`Model Integration` · `AI Automation`
-
-`Data Processing` · `Analytics`
-
-I am particularly interested in AI that becomes part of a real system instead of being added just so someone can put "AI-powered" on the homepage.
-
-## Data & Big Data
-
-`Python` · `SQL` · `PostgreSQL`
-
-`Data Engineering` · `Big Data`
-
-`ETL` · `Data Processing`
-
-`Analytics` · `APIs`
-
-I like turning messy data into something people can actually use.
-
-Sometimes the hardest part of data engineering is discovering that three systems all spell the same customer's name differently.
-
-## Development
-
-`TypeScript` · `JavaScript` · `Python`
-
-`Next.js` · `React` · `Node.js`
-
-`REST APIs` · `Backend Systems`
-
-`System Architecture` · `Integrations`
-
-I build both the things users see and the things users should never have to think about.
-
-## Cloud, Systems & Networking
-
-`AWS` · `Linux` · `Docker`
-
-`GitHub Actions` · `CI/CD`
-
-`Cloudflare` · `DNS`
-
-`Networking` · `Ubiquiti`
-
-`Servers` · `Security`
-
-I spend enough time with servers to know that "it was working yesterday" is not a debugging strategy.
-
-## Automation & Business Systems
-
-I build software that connects operations, data, APIs, infrastructure, accounting systems, CRM platforms, and internal workflows.
-
-Tools and platforms I work with include:
-
-`Salesforce` · `Zoho`
-
-`Workflow Automation` · `API Integrations`
-
-`CRM` · `Business Systems`
-
-If someone copies the same information from one system to another every morning, I immediately start thinking about how to make them stop doing that.
-
-## Products & Platforms
-
-I build different kinds of software, including:
-
-- Developer platforms
-- Cloud tools
-- School management systems
-- Administrative systems
-- Business applications
-- Internal enterprise tools
-- AI-enabled products
-- Public safety systems
-- Infrastructure platforms
-- Data and analytics systems
-- Geospatial applications
-
-Not every project needs to be public to be interesting.
-
-And not every good project needs a landing page.
-
-## Things I care about
-
-- Good architecture
-- Reliable infrastructure
-- Security
-- Useful AI
-- Clean interfaces
-- Automation
-- Data quality
-- Performance
-- Scalability
-- Systems that people can actually understand
-- Technology that solves real operational problems
-
-And backups.
-
-Always backups.
-
-Preferably tested backups.
-
-## Current status
-
-Usually somewhere between:
-
-- building something
-- designing something
-- training something
-- deploying something
-- fixing something I deployed
-- reading logs
-- debugging an API
-- checking a server
-- staring at a map
-- waiting for DNS propagation
-- promising myself not to start another project
-
-The last item remains experimental.
-
-## Outside the terminal
-
-Fishing, technology, learning new things, and occasionally remembering that the laptop can actually be closed.
-
+</details>
 
 ---
 
-Build useful things. Keep learning. Ship carefully.
+<p align="center">
+  <a href="https://orbitwake.com">What I'm building</a> ·
+  <a href="https://github.com/idrivehtbusiness?tab=repositories">What I've shipped publicly</a>
+</p>
